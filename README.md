@@ -1,4 +1,4 @@
-# Nmae: Iniya E
+# Name: Iniya E
 # Reg.No: 24900540
 # RANK OF A MATRIX
 ## Aim:
